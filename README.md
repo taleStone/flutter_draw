@@ -1,6 +1,8 @@
 # flutter_draw
 
-flutter draw demo.
+关于flutter绘制相关文章的列子，都会同步更新到这里
+
+文章集合：微信公众号 【flutter开发精选】
 
 ## Getting Started
 
